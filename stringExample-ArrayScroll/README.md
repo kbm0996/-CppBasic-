@@ -3,7 +3,7 @@
   채팅처럼 글자들을 입력받아 컨테이너에 넣고 지정한 크기만큼 채워지면 뽑는 예제
   
   
-  >![capture](https://github.com/kbm0996/ArrayScroll-Practice/blob/master/capture.gif) {}
+  >![capture](https://github.com/kbm0996/Practice-ETC/blob/master/stringtypeExample-ArrayScroll/figure/run.gif) {}
   
   
   **figure 1. ArrayScroll (animatied gif)*
