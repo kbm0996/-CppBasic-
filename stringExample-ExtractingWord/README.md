@@ -80,7 +80,7 @@
   매우 정밀한(high-resolution) 시간 값을 얻기 위한 함수
   
    2. 주요 레퍼런스
- - 정밀한 시간값 얻기 ** QueryPerformanceCounter()**
+ - 정밀한 시간값 얻기 **QueryPerformanceCounter()**
  
   GetTickCount()나 timeGetTime()보다 더 정밀한 시간값을 얻을 수 있다
  
