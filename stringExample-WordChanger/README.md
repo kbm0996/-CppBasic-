@@ -3,7 +3,7 @@
   공백 문자를 구분자로 하여 단어를 추출한다. 
   ```case 1```은 문자열의 각 요소들을 포인터로 접근하여 조작하는 고전적인 방법으로 구현한 것이고, ```case 2``` 는 stringstream으로 문자열을 조작하는 방법으로 구현한 것이다.
   
-  >![capture](https://github.com/kbm0996/Word-Changer/blob/master/capture.JPG)
+  >![capture](https://github.com/kbm0996/Practice-ETC/blob/master/stringExample-WordChanger/figure/run.JPG)
 
   
  **figure 1. Word Extractor*
