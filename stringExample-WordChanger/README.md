@@ -5,7 +5,6 @@
   
   >![capture](https://github.com/kbm0996/Practice-ETC/blob/master/stringExample-WordChanger/figure/run.JPG)
 
-  
  **figure 1. Word Extractor*
 
 ## 📌전역 변수
