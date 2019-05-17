@@ -5,7 +5,6 @@
   
   >![capture](https://github.com/kbm0996/Practice-ETC/blob/master/stringtypeExample-ArrayScroll/figure/run.gif) {}
   
-  
   **figure 1. ArrayScroll (animatied gif)*
   
   
